@@ -4,6 +4,7 @@
 #Registrar los datos de profesor y las materias
 #Agregar codigo para mostrar calificacion mas alta y baja 
 #Modificar para que muestre el promedio general del curso 
+#Sabado Nos organizamos para terminar el proyecto
 
 Estudiantes = []
 Nota_Final = 10
